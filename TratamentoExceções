@@ -1,0 +1,24 @@
+                     Tratamento de Exceções em Java
+
+Exceção - é um evento que interrompe o fluxo normal de um processamento de uma classe.
+
+O uso correto de exceções tonar o programa mais robusto e confiável.
+
+Com o tratamento de exceções, um programa pode continuar executando depois de lidar com um problema
+
+Importante: Incorpore sua estratégia de tratamento de exceções no sistema desde o princípio de processo do projeto.
+
+Pode ser difícil incluir um tratamento de exceções eficiente depois que um sistema foi implementado.
+
+
+- ERROR: usado pela JVM que serve para indicar se existe algum problema de reurso do programa, tornando a execução impossível de continuar.
+- UNCHECKED (Runtime): execptions que PODM ser evitados se forem tratados e analisados pelo desenvolvedor.
+- CHECKED EXCEPTION: exceptions que DEVEM ser evitadas e tratados pelo desenvolvedor para o programa funcionar.
+
+
+
+
+
+                     
+                     
+                     
