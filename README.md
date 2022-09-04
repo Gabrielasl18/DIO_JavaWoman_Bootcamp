@@ -24,7 +24,7 @@ ___
  
 **TIPOS:**
  						
-*LIFO/UEPS: (LAST IN FIRST OUT) ou UEPS (ÚLTIMO QUE ENTRA PRIMEIRO QUE SAI),apresenta o seguinte critério: o primeiro elemento a ser 
+* LIFO/UEPS: (LAST IN FIRST OUT) ou UEPS (ÚLTIMO QUE ENTRA PRIMEIRO QUE SAI),apresenta o seguinte critério: o primeiro elemento a ser 
 retirado é o ÚLTIMO que tiver sido inserido
 (Se tentarmos extrair algo de uma pilha VAZIA, dizemos que a pilha tem ESTOURO NEGATIVO)
 (Se exceder n, a pilha tem um ESTOURO))
