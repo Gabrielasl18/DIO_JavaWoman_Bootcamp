@@ -24,7 +24,7 @@ ___
  
 **TIPOS:**
  						
-*LIFO/UEPS: (LAST IN FIRST OUT) ou UEPS (ÚLTIMO QUE ENTRA PRIMEIRO QUE SAI),apresenta o seguinte critério: o primeiro elemento a ser 
+* LIFO/UEPS: (LAST IN FIRST OUT) ou UEPS (ÚLTIMO QUE ENTRA PRIMEIRO QUE SAI),apresenta o seguinte critério: o primeiro elemento a ser 
 retirado é o ÚLTIMO que tiver sido inserido
 (Se tentarmos extrair algo de uma pilha VAZIA, dizemos que a pilha tem ESTOURO NEGATIVO)
 (Se exceder n, a pilha tem um ESTOURO))
@@ -112,7 +112,7 @@ ___
 
 # Tratamento de Exceções em Java
 
-<dtExceção</dt> 
+Exceção
 > É um evento que interrompe o fluxo normal de um processamento de uma classe. uma exceção é uma indicação de um problema que ocorre durante a execução de um programga."exceção" significa que o programa não ocorre frequentemente. O uso correto de exceções tonar o programa mais robusto e confiável. Com o tratamento de exceções, um programa pode continuar executando depois de lidar com um problema
 
 *Importante: Incorpore sua estratégia de tratamento de exceções no sistema desde o princípio de processo do projeto.*
