@@ -112,7 +112,7 @@ ___
 
 # Tratamento de Exceções em Java
 
-<dt>Exceção</dt> 
+Exceção
 > É um evento que interrompe o fluxo normal de um processamento de uma classe. uma exceção é uma indicação de um problema que ocorre durante a execução de um programga."exceção" significa que o programa não ocorre frequentemente. O uso correto de exceções tonar o programa mais robusto e confiável. Com o tratamento de exceções, um programa pode continuar executando depois de lidar com um problema
 
 *Importante: Incorpore sua estratégia de tratamento de exceções no sistema desde o princípio de processo do projeto.*
